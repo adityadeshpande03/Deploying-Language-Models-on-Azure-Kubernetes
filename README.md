@@ -1,4 +1,4 @@
-deployment blog tutorial: https://huggingface.co/blog/vpkprasanna/deploying-language-models-on-azure
+Deployment blog tutorial: https://huggingface.co/blog/vpkprasanna/deploying-language-models-on-azure
 
 Okay, let's break down the process of deploying the `google/gemma-3-12b-it` model on Azure Kubernetes Service (AKS) using vLLM, based on the provided article but tailored specifically for this model.
 
